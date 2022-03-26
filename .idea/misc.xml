@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/Messenger/app/src/main/res/layout/activity_create_massage.xml" value="0.21" />
+        <entry key="..\:/Android Projects/Messenger/app/src/main/res/layout/activity_received_messege.xml" value="0.25" />
         <entry key="..\:/System/Messenger/app/src/main/res/layout/activity_main.xml" value="0.3453125" />
       </map>
     </option>

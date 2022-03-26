@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Messenger</string>
-    <string name="battonText">Send messege</string>
+    <string name="batton_text">Send messege</string>
     <string name="hint_enter_messege">Enter messege</string>
 </resources>
