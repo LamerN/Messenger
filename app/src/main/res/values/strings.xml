@@ -2,4 +2,5 @@
     <string name="app_name">Messenger</string>
     <string name="batton_text">Send messege</string>
     <string name="hint_enter_messege">Enter messege</string>
+    <string name="choose_intent">How you want send messege?</string>
 </resources>
